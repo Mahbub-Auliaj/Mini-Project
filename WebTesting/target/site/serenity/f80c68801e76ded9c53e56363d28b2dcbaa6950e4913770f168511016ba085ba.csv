@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User be able to Register","While i am not a user, i have not be able to register","SUCCESS","2023-05-08T16:12:55.647+07:00[Asia/Bangkok]","0.0","0.1"
+"User be able to Register","As a user, i have be able to register","SUCCESS","2023-05-08T16:12:55.753+07:00[Asia/Bangkok]","0.0","0.07"

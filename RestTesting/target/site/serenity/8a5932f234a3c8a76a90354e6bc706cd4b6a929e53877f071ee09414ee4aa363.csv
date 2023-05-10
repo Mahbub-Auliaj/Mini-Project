@@ -1,5 +1,2 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"user","POST As admin I have be able to make post","SUCCESS","2023-04-16T06:13:17.319+07:00[Asia/Bangkok]","0.0","2.62"
-"user","GET As admin I have be able to get single post","SUCCESS","2023-04-16T06:13:19.966+07:00[Asia/Bangkok]","0.0","1.41"
-"user","PUT As admin i have be able to update a post","SUCCESS","2023-04-16T06:13:21.389+07:00[Asia/Bangkok]","0.0","1.99"
-"user","DELETE As admin i want to delete post","SUCCESS","2023-04-16T06:13:23.396+07:00[Asia/Bangkok]","0.0","1.91"
+"user","GET As admin I have be able to get all product","SUCCESS","2023-05-10T12:24:51.668+07:00[Asia/Bangkok]","0.0","4.97"

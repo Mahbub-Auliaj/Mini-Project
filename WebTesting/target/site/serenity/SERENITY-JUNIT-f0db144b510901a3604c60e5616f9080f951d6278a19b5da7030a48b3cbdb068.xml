@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="User be able to Register" skipped="0" tests="2" time="0.16" timestamp="2023-05-08 04:12:55"><testcase name="While i am not a user, i have not be able to register"/><testcase name="As a user, i have be able to register"/></testsuite>

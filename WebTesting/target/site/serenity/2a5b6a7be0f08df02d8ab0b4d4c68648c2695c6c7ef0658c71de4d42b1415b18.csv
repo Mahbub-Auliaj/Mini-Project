@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User have be able to see detail","As a user i have be able to see detail","SUCCESS","2023-05-08T16:12:55.242+07:00[Asia/Bangkok]","0.0","0.11"
+"User have be able to make order","As a user i have be able to make order","SUCCESS","2023-05-08T16:12:55.365+07:00[Asia/Bangkok]","0.0","0.21"
+"User have be able to log out","As a user i have be able to log out","SUCCESS","2023-05-08T16:12:55.589+07:00[Asia/Bangkok]","0.0","0.05"
+"User be able to Register","While i am not a user, i have not be able to register","SUCCESS","2023-05-08T16:12:55.647+07:00[Asia/Bangkok]","0.0","0.1"
+"User be able to Register","As a user, i have be able to register","SUCCESS","2023-05-08T16:12:55.753+07:00[Asia/Bangkok]","0.0","0.07"
